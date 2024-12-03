@@ -1,6 +1,6 @@
-#include <fgghjdkd>
+#include <stdio.h>
 
 int main()
 {
-	cout>>"HELLO WorLD";
+	puts("Hello World");
 }
